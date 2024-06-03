@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-text-blue: #6842ff;
+  --color-text-gray: #9b9999;
+  --color-gray-black:#10111173;
+}
+
+body {
+  background:#000000;
+}
+
+ 
+
+
+
+
